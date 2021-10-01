@@ -26,6 +26,6 @@ We will provide some recommendations for datasets but you do not *have* to use t
 
 ## Registration 
 
-Throughout the relevant month, there will be an MS form for you to fill in. You can join any time during the month and submit your project to the Data and Insight Teams page. 
+Throughout the relevant month, there will be an [**MS form**](https://forms.office.com/Pages/ResponsePage.aspx?id=_oivH5ipW0yTySEKEdmlwlnMW6m8j7VKtIqoiUaNOp5UNkJPMUU5TjZESkJOWU5XUTVHVllXSk1CNi4u) for you to fill in. You can join any time during the month and submit your project to the Data and Insight Teams page. 
 
 The registration will close one week before the month ends.
